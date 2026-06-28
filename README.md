@@ -1,2 +1,2 @@
 # PadSense-CE
-PadSense Community Edition — Open-Source Virtual USB Controller Platform
+PadSense Community Edition — Virtual USB Controller Platform
