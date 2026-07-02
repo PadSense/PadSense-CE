@@ -1,4 +1,4 @@
-# PadSense CE
+# PadSense Community Edition
 
 **Full DualSense support on Windows — input, audio, mic, and haptics over Bluetooth — with no custom kernel driver.**
 
