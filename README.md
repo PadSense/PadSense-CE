@@ -74,4 +74,4 @@ If CE is useful to you, you can [support development on Ko-fi](https://ko-fi.com
 
 ## License
 
-PadSense CE is licensed under the **GNU Affero General Public License v3.0** (AGPL-3.0). See [LICENSE](LICENSE).
+PadSense CE is **free to use, but not open source**. It is provided under a custom license — see [LICENSE.md](LICENSE.md). All rights reserved. The third-party components above remain under their own licenses.
