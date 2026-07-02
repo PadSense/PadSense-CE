@@ -61,6 +61,7 @@ If CE is useful to you, you can [support development on Ko-fi](https://ko-fi.com
 ## Planned Features
 
 - Remote dualsense bridging - Install USBIP-WIN2 on your remote machine and serve a dualsense across your network.  Useful for Moonlight/Sunshine streaming setups to a steam deck.
+- DualSense Edge Emulation
 
 ## Notes and disclaimers
 
