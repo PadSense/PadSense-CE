@@ -36,7 +36,7 @@ The installer takes care of the rest: it installs [usbip-win2](https://github.co
 1. Grab the latest `PadSense-Setup-x.y.z.exe` from [Releases](../../releases).
 2. Run it. Windows SmartScreen will warn because the installer is not yet code-signed — click **More info → Run anyway**.
 3. If drivers were installed, restart when prompted.
-4. Pair your DualSense over Bluetooth and launch PadSense — the tray icon turns green ("DualSense Bridged") when the virtual pad is live.
+4. Pair your DualSense over Bluetooth and launch PadSense — the tray icon turns blue ("DualSense Bridged") when the virtual pad is live.
 
 Right-click the tray icon for status, live polling rate, polling-rate mode, autostart, and logs.
 
