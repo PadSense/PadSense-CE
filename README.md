@@ -20,6 +20,8 @@ PadSense takes a different route: a **user-space USBIP server** that synthesizes
 - **Native game compatibility** — games with built-in DualSense support (tested: Helldivers 2 with Steam Input off) see a genuine USB DualSense: correct firmware/version info, calibration, lightbar, player LEDs
 - **Invisible plumbing** — the physical Bluetooth pad is hidden from games via [HidHide](https://github.com/nefarius/HidHide) so nothing double-inputs
 - **Set and forget** — runs as a tray app, optional start-at-logon, auto-reconnects when the pad powers on/off
+- **Remote Network** - Serves your Dualsense on your network, so you can connect remotely.
+- **Dualsense Edge** - Now fully supported and passed through.
 
 ## Requirements
 
