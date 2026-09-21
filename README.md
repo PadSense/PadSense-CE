@@ -29,7 +29,9 @@ PadSense takes a different route: a **user-space USBIP server** that synthesizes
 - Bluetooth adapter, DualSense paired over Bluetooth
 - Administrator rights (driver attach + device hiding)
 
-The installer takes care of the rest: it installs [usbip-win2](https://github.com/vadimgrn/usbip-win2) and [HidHide](https://github.com/nefarius/HidHide) (only if missing — and the uninstaller removes only what it installed), plus the VC++ runtime.
+The installer takes care of the rest: it installs [usbip-win2](https://github.com/vadimgrn/usbip-win2) and [HidHide](https://github.com/nefarius/HidHide), **upgrading them if the installed version is older than the bundled one**, plus the VC++ runtime. The uninstaller removes only what it installed.
+
+Quit PadSense before installing if a controller is attached — Windows cannot replace a driver while a device is using it, and an install that runs anyway can leave the previous driver in place while every version readout reports the new one.
 
 ## Install
 
